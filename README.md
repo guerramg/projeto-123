@@ -1,5 +1,5 @@
 
-# Projeto-123 (Technical Test)
+# Projeto 123 Milhas (Technical Test)
 
 Pequena aplicação desenvolvida em PHP e SQL Server, rondando em ambiente IIS; Contém arquivo 
 web.config com configurações rewrite e base de dados; Excelente para estudos POO e servidores
